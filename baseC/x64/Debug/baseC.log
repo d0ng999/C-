@@ -1,4 +1,2 @@
-﻿  inlineFunc.cpp
-C:\Source\Cpp\baseC\inlineFunc.cpp(4,1): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
-C:\Source\Cpp\baseC\inlineFunc.cpp(18,1): warning C4010: 한 줄로 된 주석에 줄 연속 문자가 있습니다.
+﻿  refSwap.cpp
   baseC.vcxproj -> C:\Source\Cpp\baseC\x64\Debug\baseC.exe
