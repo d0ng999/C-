@@ -15,7 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="refSwap.cpp">
+    <ClInclude Include="point.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="point.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle.h">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangleFaultFind.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
