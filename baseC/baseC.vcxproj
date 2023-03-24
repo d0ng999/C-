@@ -18,15 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="point.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="point.cpp" />
-    <ClCompile Include="rectangle.cpp" />
-    <ClCompile Include="rectangle.h" />
-    <ClCompile Include="rectangleFaultFind.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
