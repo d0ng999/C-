@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GFunctionOverloading.cpp">
+    <ClCompile Include="classTestNum2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
